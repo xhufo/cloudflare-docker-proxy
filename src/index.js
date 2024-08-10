@@ -18,7 +18,7 @@ const routes = {
   "ecr.ufoqifei.us.kg": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.ufoqifei.us.kg": dockerHub,
 };
 
 function routeByHosts(host) {
